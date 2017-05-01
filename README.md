@@ -1,14 +1,13 @@
-# Nome provisório: Links compilados por _Joao Filho_ na [Comunidade R Brasil - Programadores](https://www.facebook.com/groups/1410023525939155/)
+# Nome provisório: Links compilados por _JF_ na [Comunidade R Brasil - Programadores](https://www.facebook.com/groups/1410023525939155/)
 
 
 ## Coisas muito muito interessantes aqui para o leitor atento
 
 - <https://cran.r-project.org/doc/contrib/Provete-Estatistica_aplicada.pdf>
 
-Professores responsáveis:
-        
-    Diogo Borges Provete 
-    Fernando Rodrigues da Silva 
+    Professores responsáveis:
+    Diogo Borges Provete
+    Fernando Rodrigues da Silva
     Thiago Gonçalves Souza
     São José do Rio Preto, SP
 
